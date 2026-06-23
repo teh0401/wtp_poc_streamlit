@@ -1,5 +1,6 @@
-streamlit>=1.32
-pandas>=2.0
-numpy>=1.24
+# Keep the deployment environment compatible with the serialized model.
+streamlit==1.35.0
+pandas==2.0.3
+numpy==1.24.4
 scikit-learn==1.2.2
-joblib>=1.2
+joblib==1.2.0
