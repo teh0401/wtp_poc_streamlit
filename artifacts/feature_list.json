@@ -1,0 +1,19 @@
+{
+  "features": [
+    "pH_9011_Raw",
+    "pH_9011_Raw_lag5min",
+    "pH_9011_Raw_rollmean_30min",
+    "NTU_9011_Raw",
+    "NTU_9011_Raw_lag5min",
+    "NTU_9011_Raw_rollmean_30min",
+    "month",
+    "hour",
+    "dayofweek",
+    "hour_sin",
+    "hour_cos",
+    "pH_9021_Clarifier",
+    "pH_9021_Clarifier_lag5min",
+    "pH_9021_Clarifier_rollmean_30min",
+    "pH_9021_Clarifier_diff"
+  ]
+}

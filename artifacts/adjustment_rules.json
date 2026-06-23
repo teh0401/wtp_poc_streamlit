@@ -1,0 +1,21 @@
+{
+  "method": "train-derived pH band rule",
+  "low_band": {
+    "left": 4.5,
+    "right": 5.0,
+    "closed": "right"
+  },
+  "medium_bands": [
+    {
+      "left": 4.0,
+      "right": 4.5,
+      "closed": "right"
+    },
+    {
+      "left": 5.0,
+      "right": 5.5,
+      "closed": "right"
+    }
+  ],
+  "source": "Project Part 2 predict-then-rule logic"
+}

@@ -1,0 +1,12 @@
+{
+  "model_name": "ExtraTrees",
+  "scenario": "Scenario B: Real-time clarifier forecasting",
+  "target": "pH_9021_Clarifier_t+30min",
+  "horizon": "30min",
+  "horizon_minutes": 30,
+  "trained_rows": 86626,
+  "random_split_rmse": 0.17593981988557617,
+  "random_split_mae": 0.021404217322813147,
+  "random_split_r2": 0.9796846847414584,
+  "note": "POC advisory model; chronological validation in the notebook showed regime-shift sensitivity."
+}
